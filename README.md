@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @paulsonjinkutty
-- 👀 I’m interested in building complex projects 
+- 👋 Hi, I’m Paulson Jinkutty
+- 👀 I'm currently persuing my B-TECH in Data Science
+- 📖 I like to learn and build complex problems  
 - 🌱 I’m currently learning python to work with projeccts on data science
 - 💞️ I’m looking to collaborate on projects 
 - 📫 Reach me via mail paulsonjinukutty@gmail.com
+- 📸 check out @3_2_1_flash
