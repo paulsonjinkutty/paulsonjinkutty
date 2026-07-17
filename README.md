@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paulson Jinkutty
+- 👋 Hi, I’m Paulson Jinukutty
 - 👀 I'm currently persuing my B-TECH in Data Science
 - 📖 I like to learn and build complex problems  
 - 🌱 I’m currently learning python to work with projeccts on data science
